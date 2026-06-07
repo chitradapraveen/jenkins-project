@@ -1,1 +1,2 @@
-echo "start deploying with jenkins"
+#!/bin/bash
+echo "Automate your deployments using Jenkins"
